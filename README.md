@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik Manuel Saldaña Diaz</h1>
-<h3 align="center">A passionate full stack developer student from Spain</h3>
+<h3 align="center">A passionate student from Spain</h3>
 
 - 🌱 I’m currently learning **Python, PHP, Typescript**
 
