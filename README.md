@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erik Manuel Saldaña Diaz</h1>
+<h1 align="center">Hi 👋, I'm Erik Manuel</h1>
 <h3 align="center">A passionate student from Spain</h3>
 
 - 🌱 I’m currently learning **Python, PHP, Typescript, Figma**
