@@ -22,7 +22,18 @@ Me apasiona la ingeniería de sistemas, el auto-hospedaje (Homelab) y construir 
 
 ### 🧰 Tecnologías y Herramientas
 
-#### 💻 Backend & IA
+#### 🧠 Inteligencia Artificial & Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/PydanticAI-000000?style=flat-square&logo=pydantic&logoColor=white" alt="PydanticAI">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/CLIP_%2F_Embeddings-🗂️-blue?style=flat-square" alt="CLIP/Embeddings">
+</p>
+
+#### 💻 Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
@@ -31,7 +42,6 @@ Me apasiona la ingeniería de sistemas, el auto-hospedaje (Homelab) y construir 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
 </p>
 
 #### 🎨 Frontend
